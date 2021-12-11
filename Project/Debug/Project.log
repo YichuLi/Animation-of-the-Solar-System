@@ -1,0 +1,24 @@
+﻿  main.cpp
+e:\2. code\computer graphics\project\project\main.cpp(254): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\2. code\computer graphics\project\project\main.cpp(397): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(400): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(404): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(428): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(452): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(478): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(503): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(528): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(553): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\2. code\computer graphics\project\project\main.cpp(590): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\2. code\computer graphics\project\project\main.cpp(591): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\2. code\computer graphics\project\project\main.cpp(595): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\2. code\computer graphics\project\project\main.cpp(596): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+e:\2. code\computer graphics\project\project\main.cpp(597): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\2. code\computer graphics\project\project\main.cpp(598): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\2. code\computer graphics\project\project\main.cpp(600): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\2. code\computer graphics\project\project\main.cpp(617): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project.vcxproj -> E:\2. Code\Computer Graphics\Project\Debug\Project.exe
