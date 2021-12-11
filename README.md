@@ -6,10 +6,6 @@
 >
 > Date: 2020/12/12
 
-
-
-[TOC]
-
 ## 1. Design outline
 
 By completing this project, I get my familiar with transformations, texture mapping, lighting and window event handling. Then, I will introduce in detail how I completed this animation of the solar system.
