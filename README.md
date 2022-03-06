@@ -1,10 +1,14 @@
 # README
 
-
-
 > Student name: Li, Yichu
 >
 > Date: 2020/12/12
+
+
+
+## 0. Notes
+
+It is the final course project of CS104 Fundamentals of Computer Graphics, MUST, 2020 fall.
 
 ## 1. Design outline
 
@@ -332,6 +336,3 @@ By completing this project, I have reviewed a lot of knowledge of this class and
 I was doing this project while reading textbook and watching the power point in the class to review the previous knowledge. I found that, this method is much better than I just read and watch. When I start to code, I can usually find some important knowledge I didn't notice before. I realize that in our subject, we should combine theory and practice, try to do some code exercise to absorb knowledge better.
 
 At the very beginning, when doctor Wong gave us this project, I am a little scared. Because I am not so confident that I can complete this project by myself, since I was not fully grasp the knowledge teacher said in the class. To my surprise, I successfully finish this project in the end. Of curse, the process is not easy, in many cases, I have no idea why the window cannot be displayed as I wish. But I managed to overcome the difficulties and get the result I want. By finishing this project, I feel more confident. In the past, I always afraid of doing a project alone, because I was worried about whether I can finish this project. Now, I feel that if such a project that I was a little afraid of at the beginning can be successfully completed in the end, then what else is impossible? Often difficulty is not as difficult as you think. As long as you can face the difficulties and deal with them carefully, the final result will not be bad.
-
-
-
